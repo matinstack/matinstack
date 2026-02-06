@@ -9,7 +9,7 @@
 
 ### ⚡ Frontend Developer | React & TypeScript Focused
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=45FF91&center=true&vCenter=true&width=520&lines=Building+modern+web+experiences;Turning+coffee+into+clean+code;Always+learning+new+things;Frontend+Developer+in+Progress;React+%26+TypeScript+Focused;Building+Clean+and+Scalable+UIs;Learning+by+Building+Real+Projects;Turning+Ideas+into+Code...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=45FF91&center=true&vCenter=true&width=520&lines=Building+modern+web+experiences;Turning+chai+into+clean+code;Always+learning+new+things;Frontend+Developer+in+Progress;Building+Clean+and+Scalable+UIs;Learning+by+Building+Real+Projects;Turning+Ideas+into+Code...)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,7 +26,7 @@
 
 ### 🛠️ Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,tailwind,sass,vite,html,css,redux,git,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,redux,tailwind,sass,styledcomponents,figma,vite,html,css,git,vscode,postman" />
 </p>
 
 <p align="center">
