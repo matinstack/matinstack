@@ -5,6 +5,37 @@
   />
 </p>
 
+
+💻 Technical Skills
+🟢 Frontend Architecture & Core
+Languages: JavaScript (ES6+), TypeScript
+
+Frameworks: React.js, Next.js (App Router / Pages Router)
+
+State Management: Zustand, Redux Toolkit, React Context API
+
+Data Fetching: TanStack Query (React Query), Axios
+
+🎨 Styling & UI Engineering
+Styling: Tailwind CSS, CSS Modules
+
+Component Systems: Shadcn/ui, Radix UI, Hero UI (NextUI)
+
+Animations: Framer Motion
+
+🟡 Backend & Database (Foundations)
+Runtime & Frameworks: Node.js, Express.js
+
+Database & ORM: PostgreSQL, Prisma ORM
+
+🛠️ Tooling & DevOps
+Version Control: Git, GitHub
+
+OS & Environment: Linux (Ubuntu), Bash Terminal, npm / pnpm
+
+Build
+
+
 <div align="center">
 
 ### ⚡ Frontend Developer | React & TypeScript Focused
