@@ -5,37 +5,6 @@
   />
 </p>
 
-
-💻 Technical Skills
-🟢 Frontend Architecture & Core
-Languages: JavaScript (ES6+), TypeScript
-
-Frameworks: React.js, Next.js (App Router / Pages Router)
-
-State Management: Zustand, Redux Toolkit, React Context API
-
-Data Fetching: TanStack Query (React Query), Axios
-
-🎨 Styling & UI Engineering
-Styling: Tailwind CSS, CSS Modules
-
-Component Systems: Shadcn/ui, Radix UI, Hero UI (NextUI)
-
-Animations: Framer Motion
-
-🟡 Backend & Database (Foundations)
-Runtime & Frameworks: Node.js, Express.js
-
-Database & ORM: PostgreSQL, Prisma ORM
-
-🛠️ Tooling & DevOps
-Version Control: Git, GitHub
-
-OS & Environment: Linux (Ubuntu), Bash Terminal, npm / pnpm
-
-Build
-
-
 <div align="center">
 
 ### ⚡ Frontend Developer | React & TypeScript Focused
@@ -47,30 +16,58 @@ Build
 ---
 
 ### 🧠 About Me
-- 🎯 Focused on **modern frontend development**
-- ⚛️ Working mainly with **React, TypeScript**
-- 🧩 Interested in **state management & data fetching**
-- 🛠️ Learning deeply by **building real-world projects**
-- 🚀 Goal: becoming a **professional frontend engineer**
+- 🎯 Focused on **modern frontend development** and building seamless user experiences.
+- ⚛️ Working mainly with **React.js & Next.js** (App Router & Pages Router).
+- 🧩 Deeply interested in **state management, performance optimization, and clean architecture**.
+- 🛠️ Believer in **learning by doing** — mastering concepts by building real-world projects.
+- 🚀 Goal: constantly improving to become a **highly proficient Frontend Engineer**.
 
 ---
 
-### 🛠️ Tech Stack & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,redux,tailwind,sass,styledcomponents,figma,vite,html,css,git,vscode,postman" />
-</p>
+### 🛠️ Technical Skills & Tooling
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Zustand-black?style=for-the-badge&logo=react&logoColor=white" /><img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
+#### 💻 Frontend Core & Architecture
+* **Languages:** JavaScript (ES6+), TypeScript
+* **Frameworks:** React.js, Next.js
+* **State Management:** Zustand, Redux Toolkit, Context API
+* **Data Fetching:** TanStack Query (React Query), Axios
+* **Styling & UI:** Tailwind CSS, CSS Modules, Shadcn/ui, Radix UI, Hero UI (NextUI), Framer Motion
 
-</p>
+#### 🟡 Backend & Database (Foundations)
+* **Runtime & Frameworks:** Node.js, Express.js
+* **Database & ORM:** PostgreSQL, Prisma ORM, Drizzle ORM
+
+#### 🔧 Tooling & Environment
+* **Version Control:** Git, GitHub
+* **Environment:** Windows, Git Bash, WebStorm, VS Code
+* **Package Managers & Build Tools:** npm, pnpm, Bun, Vite
 
 ---
 
+### 📊 Tech Stack & Visual Badges
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,redux,tailwind,postgres,figma,vite,html,css,git,webstorm,vscode,postman,bun" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Zustand-black?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
+</p>
+
+---
 
 ### 🤝 Connect With Me
+
 <p align="center">
-  <a href="mailto:matinbahrami.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://github.com/matinstack"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:matinbahrami.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/matinstack">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
+
+<br />
 
 <p align="right"><i>“Code. Learn. Improve. Repeat.” ✨</i></p>
