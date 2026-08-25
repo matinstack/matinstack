@@ -1,6 +1,6 @@
 # Hi 👋 I'm Matin
 
-Full Stack Developer
+Full Stack Web Developer
 
 I build web applications with modern technologies.
 
